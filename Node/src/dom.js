@@ -9,6 +9,6 @@ const domHandler = () => {
   link.href = bitcoinWhitepaper
   link.textContent = 'Bitcoin Whitepaper'
   document.body.appendChild(link)
-}
+} 
 
 export default domHandler

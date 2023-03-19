@@ -23,7 +23,7 @@ const handle = () => new Promise((resolve, reject) => {
     }, 1000)
 })
 
-const main = async () =>{
+const main = async () =>{ 
     const temp = await handle()
     console.log('Value' , temp)
 }
