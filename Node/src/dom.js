@@ -1,4 +1,4 @@
-import wallpaper from './images/Screenshot 2023-03-03 204211.png'
+import wallpaper from './images/Screenshot2023-03-03204211.png'
 import bitcoinWhitepaper from './pdfs/bitcoin.pdf'
 
 const domHandler = () => {
